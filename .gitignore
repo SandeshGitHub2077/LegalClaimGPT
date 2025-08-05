@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Conda environment and virtualenvs
+env/
+.venv/
+venv/
+ENV/
+*.conda
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode or IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Logs and runtime
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.spec
+
+# PyInstaller
+dist/
+build/
+*.egg-info/
+
+# Model and data outputs
+models/
+*.joblib
+*.h5
+
+# User-specific files
+*.DS_Store
+Thumbs.db
+
+# Streamlit config
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# API keys or sensitive info
+.env
+.env.*
+
+# FastAPI auto-reload temp files
+__pycache__/
+*.db
+
+# Output notebooks or EDA exports
+notebooks/__pycache__/
+*.ipynb_checkpoints
+
+# Ignore OS junk
+*.~lock.*
