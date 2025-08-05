@@ -40,6 +40,18 @@ This helps legal professionals, claim adjusters, and researchers quickly assess 
 
 ---
 
+## 🔍 Model Explainability with SHAP
+
+Below are SHAP visualizations explaining feature impact on the settlement prediction model:
+
+### 🔸 SHAP Bar Plot
+![SHAP Bar Plot](plots/shap_bar.png)
+
+### 🔸 SHAP Beeswarm Plot
+![SHAP Beeswarm Plot](plots/shap_beeswarm.png)
+
+---
+
 ##  Project Structure
 
 ```
