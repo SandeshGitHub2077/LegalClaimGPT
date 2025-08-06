@@ -22,3 +22,5 @@ shap>=0.45.0
 # Utility
 tqdm>=4.66.0
 python-dotenv>=1.0.1
+
+spacy
